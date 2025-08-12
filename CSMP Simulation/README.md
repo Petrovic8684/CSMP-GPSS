@@ -1,0 +1,1 @@
+[![Open PDF](https://img.shields.io/badge/Open-PDF-red)](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Petrovic8684/CSMP-GPSS/main/CSMP%20Simulation/Nelinearni%20model%20dinamike%20ljubavnog%20odnosa.pdf)

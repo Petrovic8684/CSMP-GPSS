@@ -1,0 +1,1 @@
+[![Open PDF](https://img.shields.io/badge/Open-PDF-red)](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Petrovic8684/CSMP-GPSS/main/GPSS%20Simulation/Model%20prodaje%20bioskopskih%20karata.pdf)
